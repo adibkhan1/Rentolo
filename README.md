@@ -1,5 +1,4 @@
-# Rentolo
-Vehicle Rental Service System
+# Rentolo | Vehicle Rental Service System
 
 • Built using PHP, phpMyAdmin with Mysql for the database and deployed in local environment using Xampp.
 
